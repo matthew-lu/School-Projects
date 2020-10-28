@@ -1,5 +1,5 @@
 # In this lab, the user enters a number and an ASCII diamond of asterisks embedded in numbers whose size depends on the user-inputted "height" is generated
-# INSTRUCTIONS: Open Lab3.asm in MARS 4.5 and run it. Enter a valid number to generate your diamond.
+# INSTRUCTIONS: Open AsteriskDiamond.asm in MARS 4.5 and run it. Enter a valid number to generate your diamond.
 
 .data  # Messages displayed to user
 prompt: .asciiz "Enter the height of the pattern (must be greater than 0):\t"
